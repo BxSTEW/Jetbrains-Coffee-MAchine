@@ -1,1 +1,1 @@
-# Jetbrains-Coffee-MAchine
+# Jetbrains-Coffee-Machine
